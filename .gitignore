@@ -1,0 +1,10 @@
+# Directories to ignore
+build/
+dist/
+__pycache__/
+*.egg-info/
+
+# Files to ignore
+*.pyc
+*.pyo
+*.log
