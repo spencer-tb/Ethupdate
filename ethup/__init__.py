@@ -12,7 +12,7 @@ logging.basicConfig(
 )
 
 # This should be an absolute path
-REPO_PATH = '/path/to/your/local/repos'
+CLIENTS_PATH = '/path/to/your/local/repos'
 
 # Generate on GitHub within Settings
 #  -> Developer Settings
